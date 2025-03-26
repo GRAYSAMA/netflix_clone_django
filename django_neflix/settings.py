@@ -59,6 +59,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'django_neflix.urls'
+#
 
 TEMPLATES = [
     {
